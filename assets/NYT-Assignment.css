@@ -1,0 +1,25 @@
+body {
+    margin: 0px 8px;
+}
+.jumbotron {
+    text-align: center;
+    font-size: 50px;
+}
+.container-fluid {
+    background-color: lightgrey
+}
+
+#search-parameters {
+    font-size: 25px;
+    margin-left: 15px;
+    font-weight: bold;
+
+}
+#articles-header {
+    font-size: 25px;
+    margin-left: 15px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
